@@ -1,0 +1,6 @@
+numpy>=2.0,<3
+Pillow>=10.0,<13
+scipy>=1.14,<2
+rembg[cpu]==2.0.81
+onnxruntime==1.23.2
+msvc-runtime
